@@ -15,6 +15,12 @@ This repository is for general-purpose Codex skills only.
 - vulnerability triage or exploit-lab specific skills
 - skills whose primary value depends on sensitive client or environment context
 
+## Usage Boundary
+
+- General threads must not use security-only skills.
+- If a task is primarily security review, vulnerability analysis, hardening, or lab work, move it to the security repository and a dedicated security thread.
+- This repository is for general engineering use across ordinary coding threads.
+
 ## Current Scope
 
 - `self-improving-agent`
