@@ -2,6 +2,8 @@
 
 Custom Codex skills maintained in a single backup repository.
 
+Security-only skills are maintained separately in `codex-security-skills`.
+
 ## Skills
 
 - `self-improving-agent`: Codex-adapted v0 based on an OpenClaw-oriented upstream repo
