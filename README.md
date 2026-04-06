@@ -11,13 +11,15 @@ Custom Codex skills maintained in a single backup repository.
 - `change-safety`: Codex custom v0 for lowering regression risk during edits
 - `handoff-brief`: Codex custom v0 for compact cross-thread continuation notes
 - `doc`: official OpenAI skill for `.docx` reading and editing workflows
-- `security-best-practices`: official OpenAI skill for security-focused reviews and secure-by-default guidance
+- `pdf`: official OpenAI skill for PDF workflows
+- `task-planner`: Codex custom v0 for compact execution planning
+- `pr-reviewer`: Codex custom v0 for bug-and-risk-first review
 
 ## Sources
 
-- Official OpenAI downloads: `doc`, `security-best-practices`
+- Official OpenAI downloads: `doc`, `pdf`
 - Referenced upstream and adapted: `self-improving-agent`
-- Local custom Codex skills: `context-compressor`, `repo-orient`, `debug-triage`, `change-safety`, `handoff-brief`
+- Local custom Codex skills: `context-compressor`, `repo-orient`, `debug-triage`, `change-safety`, `handoff-brief`, `task-planner`, `pr-reviewer`
 
 ## Notes
 
